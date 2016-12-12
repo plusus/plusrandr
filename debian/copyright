@@ -1,0 +1,16 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: plusrandr
+Upstream-Contact: 2016 Antoine Girard-Vallée <antoine.girard-vallee@usherbrooke.ca>
+Source: http://plus-us.gel.usherbrooke.ca/plusrandr/
+
+Files: *
+Copyright: 2016 Antoine Girard-Vallée <antoine.girard-vallee@usherbrooke.ca>
+License: GPL-3
+
+Files: debian/*
+Copyright:
+    2016 Antoine Girard-Vallée <antoine.girard-vallee@usherbrooke.ca>
+License: GPL-3
+
+On Debian systems, you can find the full text of the GNU General Public
+License v3 in `/usr/share/common-licenses/GPL-3'.
